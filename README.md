@@ -6,4 +6,5 @@ Blue
 Green
 Yellow
 Pink  
+Purple
 All of these make up a rainbow!
