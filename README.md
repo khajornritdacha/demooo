@@ -5,4 +5,5 @@ Red
 Blue
 Green
 Yellow
-Pink
+Pink  
+All of these make up a rainbow!
